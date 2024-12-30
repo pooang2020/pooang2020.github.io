@@ -23,11 +23,16 @@ notion: https://tiny-reaper-f35.notion.site/cbcc72925ea7439fa58577d3f15ae771 #no
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    A <a href="https://en.wikipedia.org/wiki/Bicolor_cat" target="_blank">bicolor cat</a> is a cat with white fur combined with fur of some other colour, for example solid black, tabby, or colourpointed.
+    I research technologies for generating 2D and 3D forms of visual assets or objects. My main focus is on interpreting and understanding images or videos to develop them into various usable forms.
   </p>
   <p>
-    There are 
+    For example, fields of research include modeling 3D objects based on 2D images, transforming motions captured in videos into the motions of target objects (video-to-motion), and creating speaking animations by synchronizing text with lip movements (lip sync).
   </p>
+  <p>
+    My goal is to simplify processes that were traditionally carried out manually by many designers or animators, while achieving realistic implementations.
+  </p>
+
+
 
 portrait_url: /assets/images/photos/IMG_2758.png
 portrait_caption: >-
