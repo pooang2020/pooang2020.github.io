@@ -34,16 +34,16 @@ portrait_caption: >-
   Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
 
 education:
-- name: Massachusetts Institute of Technology
+- name: Chung-Ang University
   logo: /assets/images/badges/MIT_Social_circle.png
   position: >- 
-    Department of Electrical Engineering and Computer Science <br/>
+    Graduate School of Advanced Imaging Science, Multimedia & Film (GSAIM) <br/>
     Ph.D. Student
   date: Sep. 2024 - present
-- name: Peking University
+- name: Chung-Ang University
   logo: /assets/images/badges/PKU_red.png
-  position: B.S. in Computer Science
-  date: Sep. 2019 - Jul. 2021
+  position: B.S. in Art & Technology
+  date: Mar. 2020 - Feb. 2024
 
 # experience:
 # - name: Peking University
