@@ -41,9 +41,7 @@ portrait_caption: >-
 education:
 - name: Chung-Ang University
   logo: /assets/images/badges/cau.png
-  position: >- 
-    Graduate School of Advanced Imaging Science, Multimedia & Film (GSAIM) <br/>
-    Ph.D. Student
+  position: Graduate School of Advanced Imaging Science, Multimedia & Film (GSAIM) - Ph.D. Student
   date: Sep. 2024 - present
 - name: Chung-Ang University
   logo: /assets/images/badges/cau.png
@@ -52,9 +50,10 @@ education:
 
 experience:
 - name: INNO Simulation
-# logo: /assets/images/badges/inno.png
-position: 3D contents Designer
-date: Jul. 2023 - Dec. 2023
+  # logo: /assets/images/badges/inno.png
+  position: 3D Contents Designer
+  date: Jul. 2023 - Dec. 2023
+
 
 #awards:
 #- name: Award Name 2
