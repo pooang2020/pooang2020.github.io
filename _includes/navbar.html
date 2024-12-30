@@ -12,7 +12,14 @@
                     <a class="nav-link" href="{{ item.url | relative_url }}">{{ item.name }}</a>
                 </li>
                 {% endfor %}
+                <!-- Notion 링크 추가 -->
+                {% if site.notion %}
+                <li class="nav-item">
+                    <a class="nav-link" href="{{ site.notion }}" target="_blank"><i class="fas fa-book"></i> Notion</a>
+                </li>
+                {% endif %}
             </ul>
         </div>
     </div>
 </nav>
+
